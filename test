@@ -1,1 +1,1 @@
-print("always is ok")
+raise Exception('иди нахуй')
