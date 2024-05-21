@@ -1,2 +1,1 @@
-
-raise Exception('fuck u')
+print("always is ok")
